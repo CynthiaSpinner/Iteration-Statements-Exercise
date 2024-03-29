@@ -5,26 +5,7 @@ namespace IterationStatements
 {
     public class Program
     {
-        //LukeWarm Section: Create methods below
-        
-
-
-        
-        
-        
-        
-        
-        
-        
-        //Hint: Use Parse or the safer TryParse() for an extra challenge
-        //Parse()
-        //TryParse()
-
-        //Heatin Up Section:
-        
-        
-        
-
+      
 
         //Call the methods to test them in the Main method below
         static void Main(string[] args)
